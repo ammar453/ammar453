@@ -17,17 +17,4 @@
 [LinkedIn](https://www.linkedin.com/in/ammarahmedsaed?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## GitHub
-[github.com/ammar453](https://github.com/ammar453)    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "huggingface",
-    "linux",
-    "matlab",
-    "ollama",
-    "python"
-  ]
-}
+[github.com/ammar453](https://github.com/ammar453)
